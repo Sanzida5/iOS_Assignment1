@@ -1,3 +1,5 @@
+#sanzida moin tithi
+#2007061
 # iOS_Assignment1
 
 A random word is shown at the start of the game.
